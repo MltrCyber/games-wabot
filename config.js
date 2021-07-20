@@ -1,6 +1,6 @@
 global.DeveloperMode = 'false' //true Or false
-global.linkGC = ['https://chat.whatsapp.com/Lb4Emjih98rBiCZiZoS2eM', 'https://chat.whatsapp.com/FrluVyY5kBRIhY6yKfH4DI']
-global.owner = ['6281390658325', '6282256115584', '6285713964963']// Put your number here
+global.linkGC = ['https://chat.whatsapp.com/H6nWsnKwlIrFatoPKacjfX', 'https://chat.whatsapp.com/H6nWsnKwlIrFatoPKacjfX']
+global.owner = ['6282273128712', '62882015535456']// Put your number here
 global.mods = ['13479805233'] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -13,12 +13,12 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'd90a9e986e18778b'
+  'https://api.xteam.xyz': 'dfcd8a99ad75270b'
 }
 
 // Sticker WM
-global.packname = 'wa.me/6285713964963'
-global.author = 'Metro Bot Is The Best'
+global.packname = 'HARY-IT'
+global.author = 'Make Your Heart Comfortable'
 
 global.multiplier = 39 // The higher, The harder levelup
 
